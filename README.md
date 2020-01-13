@@ -6,7 +6,7 @@ For this assignment you will write an app that implements a quiz. There are seve
 Your app should look something liike this 
 
 
-![app image](./appimage.png)
+![app image](https://github.com/Android-master1/Rick-Morty-Quiz/blob/master/appImage.png)
 
  
 * You must have at least 5 quesitons
