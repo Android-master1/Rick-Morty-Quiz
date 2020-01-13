@@ -6,7 +6,7 @@ For this assignment you will write an app that implements a quiz. There are seve
 Your app should look something liike this 
 
 
-![app image](appimage.png)
+![app image](./appimage.png)
 
  
 * You must have at least 5 quesitons
@@ -17,7 +17,7 @@ Your app should look something liike this
 
 Clone this repository, do your work in this repository, commit and push to submit. It is best practice to commit and push often. 
 
-##rubric (__/32). 
+## rubric (__/32). 
 
 |  Program functionality 	|  Begining (0) | Novice  (4)|  Competent (6) |  Proficient (8) |
 |:-:	|---	|---	|---	|---	|
