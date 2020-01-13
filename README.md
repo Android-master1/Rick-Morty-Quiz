@@ -7,6 +7,8 @@ Your app should look something liike this
 
 
 ![app image](https://github.com/Android-master1/Rick-Morty-Quiz/blob/master/appImage.png)
+![app image](./appImage.png)
+
 
  
 * You must have at least 5 quesitons
